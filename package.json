@@ -21,10 +21,15 @@
   },
   "homepage": "https://github.com/ADDICT1337/frontend-project-46#readme",
   "dependencies": {
+    "@kentico/kontent-model-generator": "^5.0.0-3",
     "commander": "^10.0.0",
+    "fs-js": "^1.0.6",
+    "js-yaml": "^4.1.0",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
+    "@types/commander": "^2.12.2",
+    "@types/js-yaml": "^4.0.5",
     "eslint": "^8.36.0",
     "jest": "^29.5.0"
   }
