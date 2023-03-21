@@ -2,6 +2,7 @@
 [![Actions Status](https://github.com/ADDICT1337/frontend-project-46/workflows/hexlet-check/badge.svg)](https://github.com/ADDICT1337/frontend-project-46/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/3d967b92d9b1a8362e39/maintainability)](https://codeclimate.com/github/ADDICT1337/frontend-project-46/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/3d967b92d9b1a8362e39/test_coverage)](https://codeclimate.com/github/ADDICT1337/frontend-project-46/test_coverage)
+[![Node CI](https://github.com/ADDICT1337/frontend-project-46/actions/workflows/github-actions.yml/badge.svg)](https://github.com/ADDICT1337/frontend-project-46/actions/workflows/github-actions.yml)
 
 # Gendiff
 [![asciicast](https://asciinema.org/a/utwJVwHtek4Na3klQu4sOlsas.png)](https://asciinema.org/a/utwJVwHtek4Na3klQu4sOlsas)
