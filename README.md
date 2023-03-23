@@ -12,3 +12,5 @@
 [![asciicast](https://asciinema.org/a/FyrvvFqy58inzngCR4F3zFM6w.png)](https://asciinema.org/a/FyrvvFqy58inzngCR4F3zFM6w)
 # Plain file
 [![asciicast](https://asciinema.org/a/7X7d2heilB7FqFD9G7YrPmjzk.png)](https://asciinema.org/a/7X7d2heilB7FqFD9G7YrPmjzk)
+# Test
+[![asciicast](https://asciinema.org/a/wBDZXu2HsRdEZWXrvX4NlsduC.png)](https://asciinema.org/a/wBDZXu2HsRdEZWXrvX4NlsduC)

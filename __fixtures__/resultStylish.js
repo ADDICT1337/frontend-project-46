@@ -1,4 +1,4 @@
-{
+const result = `{
     common: {
       + follow: false
         setting1: Value 1
@@ -11,7 +11,7 @@
         }
         setting6: {
             doge: {
-              - wow:
+              - wow: 
               + wow: so much
             }
             key: value
@@ -41,4 +41,6 @@
         }
         fee: 100500
     }
-}
+}`;
+
+export default result;
