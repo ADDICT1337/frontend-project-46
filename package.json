@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/ADDICT1337/frontend-project-46#readme",
   "dependencies": {
+    "@jest/globals": "^29.5.0",
     "@kentico/kontent-model-generator": "^5.0.0-3",
     "commander": "^10.0.0",
     "eslint-config-airbnb": "^19.0.4",
